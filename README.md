@@ -1,6 +1,11 @@
 # [Machine learning](https://www.coursera.org/learn/machine-learning)
 
 ## Table of contents
+- [Machine learning](#machine-learning)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Prerequisites](#prerequisites)
+  - [Exercises](#exercises)
 
 ## General info
 > Exercises from course **Machine learning** in coursera.
